@@ -1,4 +1,4 @@
-# Project Title
+# Blurry Loading
 
 https://thedanitor.github.io/blurry_loading/
 
